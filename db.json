@@ -1,0 +1,100 @@
+{
+    "apis": [
+      {
+        "id": 1,
+        "name": "Metropolitan Museum of Art Met Collection REST API",
+        "link": "https://www.programmableweb.com/api/metropolitan-museum-art-met-collection-rest-api-v10",
+        "image": "./images/aloe.jpg",
+        "category": "Arts and Culture",
+        "description": "An API for ___"
+      },
+      {
+          "id": 2,
+          "name": "Harvard Art Museums API",
+          "link": "https://www.programmableweb.com/api/harvard-art-museums-rest-api",
+          "image": "./images/aloe.jpg",
+          "category": "Arts and Culture",
+          "description": "The Harvard Art Museums API integrates museum's collections into an application. Users gain access to data about Objects, People, Exhibitions, Publications, and Galleries."
+        },
+        {
+          "id": 3,
+          "name": "Cleveland Museum of Art API",
+          "link": "https://openaccess-api.clevelandart.org/",
+          "image": "./images/aloe.jpg",
+          "category": "Arts and Culture",
+          "description": "The Cleveland Museum of Art provides datasets of information on more than 64,000 artwork records in its Collection for unrestricted commercial and noncommercial use. Additionally, the museum provides image assets for over 37,000 works, which are made available under the same terms. Links to the web, print, and full-sized, uncompressed versions of these images are included in the dataset where applicable."
+        },
+        {
+          "id": 4,
+          "name": "Tennis Odds",
+          "link": "https://rapidapi.com/BettingAPI/api/tennis-odds/details",
+          "image": "./images/aloe.jpg",
+          "category": "Sports",
+          "description": "An API for ___"
+        },
+        {
+          "id": 5,
+          "name": "MLB Data",
+          "link": "https://appac.github.io/mlb-data-api-docs/",
+          "image": "./images/aloe.jpg",
+          "category": "Sports",
+          "description": "An API for ___"
+        },
+        {
+          "id": 6,
+          "name": "Horse Racing API",
+          "link": "https://rapidapi.com/ortegalex/api/horse-racing/details",
+          "image": "./images/aloe.jpg",
+          "category": "Sports",
+          "description": "An API for ___"
+        },
+        {
+          "id": 7,
+          "name": "Flight Data",
+          "link": "https://travelpayouts.github.io/slate/",
+          "image": "./images/aloe.jpg",
+          "category": "Travel",
+          "description": "An API for ___"
+        },
+        {
+          "id": 8,
+          "name": "Gas Prices",
+          "link": "https://www.collectapi.com/api/gasPrice/gas-prices-api",
+          "image": "./images/aloe.jpg",
+          "category": "Travel",
+          "description": "An API for ___"
+        },
+        {
+          "id": 9,
+          "name": "Hotels",
+          "link": "https://rapidapi.com/apidojo/api/hotels4/details",
+          "image": "",
+          "category": "Travel",
+          "description": "An API for ___"
+        },
+        {
+          "id": 10,
+          "name": "Bloomberg Market and Financial News",
+          "link": "https://apipheny.io/free-api/#data-apis",
+          "image": "./images/aloe.jpg",
+          "category": "Finance",
+          "description": "An API for ___"
+        },
+        {
+          "id": 11,
+          "name": "Yahoo Finance API",
+          "link": "https://rapidapi.com/auth/sign-up?referral=/apidojo/api/yh-finance",
+          "image": "./images/aloe.jpg",
+          "category": "Finance",
+          "description": "An API for ___"
+        },
+        {
+          "id": 12,
+          "name": "Gold Prices",
+          "link": "https://rapidapi.com/auth/sign-up?referral=/mpeng/api/stock-and-options-trading-data-provider",
+          "image": "./images/aloe.jpg",
+          "category": "Finance",
+          "description": "An API for ___"
+        }
+    ]
+  }
